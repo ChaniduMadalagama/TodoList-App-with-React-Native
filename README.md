@@ -15,6 +15,7 @@ The KeyboardAvoidingView component is used to prevent the keyboard from covering
 
 Overall, this code sets up the basic structure for a task list application and allows the user to add new tasks to the list.
 
+![Screenshot 2023-04-15 142327](https://user-images.githubusercontent.com/39787176/232202518-31659b49-6a46-44c3-ab3d-80c84030c836.png)
 
 
 
